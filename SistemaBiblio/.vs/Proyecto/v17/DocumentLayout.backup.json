@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|c:\\users\\eli_bendecida\\desktop\\sistemabiblio\\proyectobiblioteca\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|solutionrelative:proyectobiblioteca\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|c:\\users\\eli_bendecida\\desktop\\sistemabiblio\\proyectobiblioteca\\controllers\\recoverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|solutionrelative:proyectobiblioteca\\controllers\\recoverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|c:\\users\\eli_bendecida\\desktop\\sistemabiblio\\proyectobiblioteca\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|solutionrelative:proyectobiblioteca\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|c:\\users\\eli_bendecida\\desktop\\sistemabiblio\\proyectobiblioteca\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|solutionrelative:proyectobiblioteca\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|c:\\users\\eli_bendecida\\desktop\\sistemabiblio\\proyectobiblioteca\\views\\login\\recuperarpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|solutionrelative:proyectobiblioteca\\views\\login\\recuperarpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|c:\\users\\eli_bendecida\\desktop\\sistemabiblio\\proyectobiblioteca\\logica\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|solutionrelative:proyectobiblioteca\\logica\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "ProyectoBiblioteca\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T03:35:22.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecoveryController.cs",
+              "DocumentMoniker": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Controllers\\RecoveryController.cs",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca\\Controllers\\RecoveryController.cs",
+              "ToolTip": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Controllers\\RecoveryController.cs",
+              "RelativeToolTip": "ProyectoBiblioteca\\Controllers\\RecoveryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T03:21:29.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ProyectoBiblioteca\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T03:20:39.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecuperarPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Views\\Login\\RecuperarPassword.cshtml",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca\\Views\\Login\\RecuperarPassword.cshtml",
+              "ToolTip": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Views\\Login\\RecuperarPassword.cshtml",
+              "RelativeToolTip": "ProyectoBiblioteca\\Views\\Login\\RecuperarPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T03:18:18.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "ProyectoBiblioteca\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACcAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T03:05:19.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Logica\\Conexion.cs",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca\\Logica\\Conexion.cs",
+              "ToolTip": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Logica\\Conexion.cs",
+              "RelativeToolTip": "ProyectoBiblioteca\\Logica\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:45:57.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
