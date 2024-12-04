@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|c:\\users\\eli_bendecida\\desktop\\sistemabiblio\\proyectobiblioteca\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|solutionrelative:proyectobiblioteca\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|c:\\users\\eli_bendecida\\desktop\\sistemabiblio\\proyectobiblioteca\\views\\persona\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|solutionrelative:proyectobiblioteca\\views\\persona\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\proyectobiblioteca\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|solutionrelative:proyectobiblioteca\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|c:\\users\\eli_bendecida\\desktop\\sistemabiblio\\proyectobiblioteca\\logica\\personalogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|solutionrelative:proyectobiblioteca\\logica\\personalogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|c:\\users\\eli_bendecida\\desktop\\sistemabiblio\\proyectobiblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|solutionrelative:proyectobiblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\proyectobiblioteca\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|solutionrelative:proyectobiblioteca\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|c:\\users\\eli_bendecida\\desktop\\sistemabiblio\\proyectobiblioteca\\vendor\\fontawesome-free\\css\\all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|solutionrelative:proyectobiblioteca\\vendor\\fontawesome-free\\css\\all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|c:\\users\\eli_bendecida\\desktop\\sistemabiblio\\proyectobiblioteca\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06E1B554-EC04-4A77-8B1F-BA800347717B}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|solutionrelative:proyectobiblioteca\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,39 +50,78 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuarios.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Views\\Persona\\Usuarios.cshtml",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca\\Views\\Persona\\Usuarios.cshtml",
+              "ToolTip": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Views\\Persona\\Usuarios.cshtml",
+              "RelativeToolTip": "ProyectoBiblioteca\\Views\\Persona\\Usuarios.cshtml",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAK4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T00:34:13.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonaLogica.cs",
+              "DocumentMoniker": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Logica\\PersonaLogica.cs",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca\\Logica\\PersonaLogica.cs",
+              "ToolTip": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Logica\\PersonaLogica.cs",
+              "RelativeToolTip": "ProyectoBiblioteca\\Logica\\PersonaLogica.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T00:33:58.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "all.min.css",
+              "DocumentMoniker": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\vendor\\fontawesome-free\\css\\all.min.css",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca\\vendor\\fontawesome-free\\css\\all.min.css",
+              "ToolTip": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\vendor\\fontawesome-free\\css\\all.min.css",
+              "RelativeToolTip": "ProyectoBiblioteca\\vendor\\fontawesome-free\\css\\all.min.css",
+              "ViewState": "AgIAAPcVAAAAAAAAAAAswAQWAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T00:21:47.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoBiblioteca\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAALkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T23:07:52.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "ProyectoBiblioteca\\Views\\Admin\\Index.cshtml",
               "ToolTip": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Views\\Admin\\Index.cshtml",
               "RelativeToolTip": "ProyectoBiblioteca\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-02T03:35:22.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "ProyectoBiblioteca\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "ProyectoBiblioteca\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T03:20:39.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Views\\Login\\Index.cshtml",
               "RelativeDocumentMoniker": "ProyectoBiblioteca\\Views\\Login\\Index.cshtml",
               "ToolTip": "C:\\Users\\ELI_BENDECIDA\\Desktop\\SistemaBiblio\\ProyectoBiblioteca\\Views\\Login\\Index.cshtml",
               "RelativeToolTip": "ProyectoBiblioteca\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAACcAAACaAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABsAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-02T03:05:19.691Z",
               "EditorCaption": ""
